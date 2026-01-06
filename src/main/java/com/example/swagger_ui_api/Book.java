@@ -11,8 +11,10 @@ public class Book {
     }
 
     // Getters and Setters
-    public String getTitle() { return title; }
+    public String getTitle() { return title; } //It will display the book title that is added
     public void setTitle(String title) { this.title = title; }
     public String getAuthor() { return author; }
     public void setAuthor(String author) { this.author = author; }
 }
+
+
